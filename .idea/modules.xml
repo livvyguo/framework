@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LogAnalyzer/LogAnalyzer.iml" filepath="$PROJECT_DIR$/LogAnalyzer/LogAnalyzer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appexec/appexec.iml" filepath="$PROJECT_DIR$/appexec/appexec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crystalgrape/crystalgrape.iml" filepath="$PROJECT_DIR$/crystalgrape/crystalgrape.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framework.iml" filepath="$PROJECT_DIR$/framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gardener/gardener.iml" filepath="$PROJECT_DIR$/gardener/gardener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/google/google.iml" filepath="$PROJECT_DIR$/google/google.iml" />
+      <module fileurl="file://$PROJECT_DIR$/juice/juice.iml" filepath="$PROJECT_DIR$/juice/juice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logclient/logclient.iml" filepath="$PROJECT_DIR$/logclient/logclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lucene/lucene.iml" filepath="$PROJECT_DIR$/lucene/lucene.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monitor/monitor.iml" filepath="$PROJECT_DIR$/monitor/monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis/mybatis.iml" filepath="$PROJECT_DIR$/mybatis/mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nio/nio.iml" filepath="$PROJECT_DIR$/nio/nio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpc/rpc.iml" filepath="$PROJECT_DIR$/rpc/rpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/school/school.iml" filepath="$PROJECT_DIR$/school/school.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread/thread.iml" filepath="$PROJECT_DIR$/thread/thread.iml" />
+    </modules>
+  </component>
+</project>
+

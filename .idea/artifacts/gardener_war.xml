@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="gardener:war">
+    <output-path>$PROJECT_DIR$/gardener/target</output-path>
+    <root id="archive" name="gardener-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="gardener:war exploded" />
+    </root>
+  </artifact>
+</component>

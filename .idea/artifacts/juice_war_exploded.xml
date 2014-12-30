@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="juice:war exploded">
+    <output-path>$PROJECT_DIR$/juice/target/juice-0.0.1-SNAPSHOT</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="juice/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="juice" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
